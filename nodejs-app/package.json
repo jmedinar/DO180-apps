@@ -8,7 +8,7 @@
   "license": "ASL",
   "dependencies": {
     "express": "4.x",
-    "httpd": "latest",
+    "http-error": "latest",
     "html-errors": "latest"
   }
 }
